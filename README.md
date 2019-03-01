@@ -17,15 +17,18 @@ Comunidades:
 
 
 Provincias:
-| CODAUTO (código de comunidades) | CPRO (código de provincia) | Provincia |
-| -- | -- | -- |
-| 1 | 14 | Córdoba |
+
+| CODAUTO (código de comunidades)  | CPRO (código de provincia) | Provincia |
+| ------------- | ------------- | ------------- |
+| 1  | 14  | Córdoba |
 
 
 Municipios:
-| CODAUTO| CPRO | CMUN (código de municipio en provincia, NO ES EL ID) | NOMBRE | ID |
-| -- | -- | -- | -- | -- |
-| 1 | 14 | 038 | Lucena | 14038 |
+
+| CODAUTO  | CPRO | CMUN (código de municipio en provincia, NO ES EL ID) | NOMBRE | ID |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1  | 14  | 038 | Lucena | 14038 |
+
 
 
 ### AGRADECIMIENTOS
