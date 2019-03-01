@@ -10,9 +10,10 @@ comunidades , provincias y municipios.
 Veremos un ejemplo práctico.
 
 Comunidades:
-| COD | NOMBRE |
-| -- | -- |
-| 1 | Andalucía |
+
+| COD  | NOMBRE |
+| ------------- | ------------- |
+| 1  | Andalucía  |
 
 
 Provincias:
