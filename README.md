@@ -1,6 +1,11 @@
 # DEMARCACIÓN ADMINISTRATIVA ESPAÑOLA
 
-Archivos en formato JSON con la demarcación administrativa de España a fecha del 2019
+Archivos en formato JSON con la demarcación administrativa de España a fecha del 2019.
+
+| Nº COMUNIDADES | Nº PROVINCIAS | Nº MUNICIPIOS |
+| ------------- | ------------- | ------------- |
+| 19 | 52  | 8.131 |
+
 
 ## COSAS A SABER
 
