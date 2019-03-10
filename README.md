@@ -42,9 +42,13 @@ Datos extraidos y parseados del Instituto Nacional de Estadistica.
 https://www.ine.es
 
 A las siguientes librerias, necesarias para editar los archivos
+
 npm install json2xls
+
 npm install @aquajax/json2xls
+
 npm install xlsx-to-json
+
 
 ## Autores
 
