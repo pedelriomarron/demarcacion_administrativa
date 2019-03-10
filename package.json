@@ -1,0 +1,25 @@
+{
+  "name": "demarcacion_administrativa",
+  "version": "1.0.0",
+  "description": "Archivos en formato JSON de la Demarcación administrativa en España, con fecha de 2019.",
+  "main": "app.js",
+  "dependencies": {
+    "@aquajax/json2xls": "^1.0.4",
+    "json2xls": "^0.1.2",
+    "xlsx-to-json": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedelriomarron/demarcacion_administrativa.git"
+  },
+  "author": "Pedro del Río",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedelriomarron/demarcacion_administrativa/issues"
+  },
+  "homepage": "https://github.com/pedelriomarron/demarcacion_administrativa#readme"
+}

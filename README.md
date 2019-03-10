@@ -41,7 +41,8 @@ Municipios:
 Datos extraidos y parseados del Instituto Nacional de Estadistica. 
 https://www.ine.es
 
-A las siguientes librerias, necesarias para editar los archivos
+A las siguientes librerias, necesarias para editar los archivos en excel.
+(Para la conversion a JSON guarda primero los xlsx en excel para que obtenga el formato completo)
 
 npm install json2xls
 
