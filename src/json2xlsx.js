@@ -6,8 +6,8 @@ var array1 = ['comunidades', 'provincias', 'municipios'];
 
 array1.forEach(function(element) {
 
-    var json = require(`./${element}.json`);
+    var json = require(`./data/${element}.json`);
     var xls = json2xls(json);
-    fs.writeFileSync(`./${element}.xlsx`, xls, 'ascii');
+    fs.writeFileSync(`./src/${element}.xlsx`, xls, 'ascii');
 
 });
