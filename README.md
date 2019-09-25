@@ -1,3 +1,22 @@
+# COMO USAR LA API
+
+
+DOMINIO: https://spanishdemarcation.appspot.com/
+
+municipio/SLUG/xxxxx
+
+municipio/CODAUTO/xx
+
+comunidad/SLUG/xxxxx
+
+provincia/SLUG/xxxxx
+
+Ejemplo:
+
+https://spanishdemarcation.appspot.com/municipio/SLUG/cordoba
+
+
+
 # DEMARCACIÓN ADMINISTRATIVA ESPAÑOLA
 
 Archivos en formato JSON con la demarcación administrativa de España a fecha del 2019.
@@ -23,7 +42,7 @@ Comunidades:
 
 Provincias:
 
-| CODAUTO (código de comunidades)  | CPRO (código de provincia) | Provincia |
+| CODAUTO (código de comunidades)  | CPRO (código de provincia) | NOMBRE |
 | ------------- | ------------- | ------------- |
 | 1  | 14  | Córdoba |
 
@@ -49,6 +68,9 @@ npm install json2xls
 npm install @aquajax/json2xls
 
 npm install xlsx-to-json
+
+[@marcelo-ribeiro/javascript-remove-accents.js](https://gist.github.com/marcelo-ribeiro/abd651b889e4a20e0bab558a05d38d77 )
+
 
 
 ## Autores
