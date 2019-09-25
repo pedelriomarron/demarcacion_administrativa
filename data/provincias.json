@@ -1,1 +1,314 @@
-[{"CODAUTO":"1","CPRO":"4","Provincia":"Almería"},{"CODAUTO":"1","CPRO":"11","Provincia":"Cádiz"},{"CODAUTO":"1","CPRO":"14","Provincia":"Córdoba"},{"CODAUTO":"1","CPRO":"18","Provincia":"Granada"},{"CODAUTO":"1","CPRO":"21","Provincia":"Huelva"},{"CODAUTO":"1","CPRO":"23","Provincia":"Jaén"},{"CODAUTO":"1","CPRO":"29","Provincia":"Málaga"},{"CODAUTO":"1","CPRO":"41","Provincia":"Sevilla"},{"CODAUTO":"2","CPRO":"22","Provincia":"Huesca"},{"CODAUTO":"2","CPRO":"44","Provincia":"Teruel"},{"CODAUTO":"2","CPRO":"50","Provincia":"Zaragoza"},{"CODAUTO":"3","CPRO":"33","Provincia":"Asturias"},{"CODAUTO":"4","CPRO":"7","Provincia":"Balears, Illes"},{"CODAUTO":"5","CPRO":"35","Provincia":"Palmas, Las"},{"CODAUTO":"5","CPRO":"38","Provincia":"Santa Cruz de Tenerife"},{"CODAUTO":"6","CPRO":"39","Provincia":"Cantabria"},{"CODAUTO":"7","CPRO":"5","Provincia":"Ávila"},{"CODAUTO":"7","CPRO":"9","Provincia":"Burgos"},{"CODAUTO":"7","CPRO":"24","Provincia":"León"},{"CODAUTO":"7","CPRO":"34","Provincia":"Palencia"},{"CODAUTO":"7","CPRO":"37","Provincia":"Salamanca"},{"CODAUTO":"7","CPRO":"40","Provincia":"Segovia"},{"CODAUTO":"7","CPRO":"42","Provincia":"Soria"},{"CODAUTO":"7","CPRO":"47","Provincia":"Valladolid"},{"CODAUTO":"7","CPRO":"49","Provincia":"Zamora"},{"CODAUTO":"8","CPRO":"2","Provincia":"Albacete"},{"CODAUTO":"8","CPRO":"13","Provincia":"Ciudad Real"},{"CODAUTO":"8","CPRO":"16","Provincia":"Cuenca"},{"CODAUTO":"8","CPRO":"19","Provincia":"Guadalajara"},{"CODAUTO":"8","CPRO":"45","Provincia":"Toledo"},{"CODAUTO":"9","CPRO":"8","Provincia":"Barcelona"},{"CODAUTO":"9","CPRO":"17","Provincia":"Girona"},{"CODAUTO":"9","CPRO":"25","Provincia":"Lleida"},{"CODAUTO":"9","CPRO":"43","Provincia":"Tarragona"},{"CODAUTO":"10","CPRO":"3","Provincia":"Alicante/Alacant"},{"CODAUTO":"10","CPRO":"12","Provincia":"Castellón/Castelló"},{"CODAUTO":"10","CPRO":"46","Provincia":"Valencia/València"},{"CODAUTO":"11","CPRO":"6","Provincia":"Badajoz"},{"CODAUTO":"11","CPRO":"10","Provincia":"Cáceres"},{"CODAUTO":"12","CPRO":"15","Provincia":"Coruña, A"},{"CODAUTO":"12","CPRO":"27","Provincia":"Lugo"},{"CODAUTO":"12","CPRO":"32","Provincia":"Ourense"},{"CODAUTO":"12","CPRO":"36","Provincia":"Pontevedra"},{"CODAUTO":"13","CPRO":"28","Provincia":"Madrid"},{"CODAUTO":"14","CPRO":"30","Provincia":"Murcia"},{"CODAUTO":"15","CPRO":"31","Provincia":"Navarra"},{"CODAUTO":"16","CPRO":"1","Provincia":"Araba/Álava"},{"CODAUTO":"16","CPRO":"48","Provincia":"Bizkaia"},{"CODAUTO":"16","CPRO":"20","Provincia":"Gipuzkoa"},{"CODAUTO":"17","CPRO":"26","Provincia":"Rioja, La"},{"CODAUTO":"18","CPRO":"51","Provincia":"Ceuta"},{"CODAUTO":"19","CPRO":"52","Provincia":"Melilla"}]
+[
+    {
+        "CODAUTO": "1",
+        "CPRO": "4",
+        "NOMBRE": "Almería",
+        "SLUG": "almeria"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "11",
+        "NOMBRE": "Cádiz",
+        "SLUG": "cadiz"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "14",
+        "NOMBRE": "Córdoba",
+        "SLUG": "cordoba"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "18",
+        "NOMBRE": "Granada",
+        "SLUG": "granada"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "21",
+        "NOMBRE": "Huelva",
+        "SLUG": "huelva"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "23",
+        "NOMBRE": "Jaén",
+        "SLUG": "jaen"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "29",
+        "NOMBRE": "Málaga",
+        "SLUG": "malaga"
+    },
+    {
+        "CODAUTO": "1",
+        "CPRO": "41",
+        "NOMBRE": "Sevilla",
+        "SLUG": "sevilla"
+    },
+    {
+        "CODAUTO": "2",
+        "CPRO": "22",
+        "NOMBRE": "Huesca",
+        "SLUG": "huesca"
+    },
+    {
+        "CODAUTO": "2",
+        "CPRO": "44",
+        "NOMBRE": "Teruel",
+        "SLUG": "teruel"
+    },
+    {
+        "CODAUTO": "2",
+        "CPRO": "50",
+        "NOMBRE": "Zaragoza",
+        "SLUG": "zaragoza"
+    },
+    {
+        "CODAUTO": "3",
+        "CPRO": "33",
+        "NOMBRE": "Asturias",
+        "SLUG": "asturias"
+    },
+    {
+        "CODAUTO": "4",
+        "CPRO": "7",
+        "NOMBRE": "Balears, Illes",
+        "SLUG": "balears--illes"
+    },
+    {
+        "CODAUTO": "5",
+        "CPRO": "35",
+        "NOMBRE": "Palmas, Las",
+        "SLUG": "palmas--las"
+    },
+    {
+        "CODAUTO": "5",
+        "CPRO": "38",
+        "NOMBRE": "Santa Cruz de Tenerife",
+        "SLUG": "santa-cruz-de-tenerife"
+    },
+    {
+        "CODAUTO": "6",
+        "CPRO": "39",
+        "NOMBRE": "Cantabria",
+        "SLUG": "cantabria"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "5",
+        "NOMBRE": "Ávila",
+        "SLUG": "avila"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "9",
+        "NOMBRE": "Burgos",
+        "SLUG": "burgos"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "24",
+        "NOMBRE": "León",
+        "SLUG": "leon"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "34",
+        "NOMBRE": "Palencia",
+        "SLUG": "palencia"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "37",
+        "NOMBRE": "Salamanca",
+        "SLUG": "salamanca"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "40",
+        "NOMBRE": "Segovia",
+        "SLUG": "segovia"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "42",
+        "NOMBRE": "Soria",
+        "SLUG": "soria"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "47",
+        "NOMBRE": "Valladolid",
+        "SLUG": "valladolid"
+    },
+    {
+        "CODAUTO": "7",
+        "CPRO": "49",
+        "NOMBRE": "Zamora",
+        "SLUG": "zamora"
+    },
+    {
+        "CODAUTO": "8",
+        "CPRO": "2",
+        "NOMBRE": "Albacete",
+        "SLUG": "albacete"
+    },
+    {
+        "CODAUTO": "8",
+        "CPRO": "13",
+        "NOMBRE": "Ciudad Real",
+        "SLUG": "ciudad-real"
+    },
+    {
+        "CODAUTO": "8",
+        "CPRO": "16",
+        "NOMBRE": "Cuenca",
+        "SLUG": "cuenca"
+    },
+    {
+        "CODAUTO": "8",
+        "CPRO": "19",
+        "NOMBRE": "Guadalajara",
+        "SLUG": "guadalajara"
+    },
+    {
+        "CODAUTO": "8",
+        "CPRO": "45",
+        "NOMBRE": "Toledo",
+        "SLUG": "toledo"
+    },
+    {
+        "CODAUTO": "9",
+        "CPRO": "8",
+        "NOMBRE": "Barcelona",
+        "SLUG": "barcelona"
+    },
+    {
+        "CODAUTO": "9",
+        "CPRO": "17",
+        "NOMBRE": "Girona",
+        "SLUG": "girona"
+    },
+    {
+        "CODAUTO": "9",
+        "CPRO": "25",
+        "NOMBRE": "Lleida",
+        "SLUG": "lleida"
+    },
+    {
+        "CODAUTO": "9",
+        "CPRO": "43",
+        "NOMBRE": "Tarragona",
+        "SLUG": "tarragona"
+    },
+    {
+        "CODAUTO": "10",
+        "CPRO": "3",
+        "NOMBRE": "Alicante/Alacant",
+        "SLUG": "alicante-alacant"
+    },
+    {
+        "CODAUTO": "10",
+        "CPRO": "12",
+        "NOMBRE": "Castellón/Castelló",
+        "SLUG": "castellon-castello"
+    },
+    {
+        "CODAUTO": "10",
+        "CPRO": "46",
+        "NOMBRE": "Valencia/València",
+        "SLUG": "valencia-valencia"
+    },
+    {
+        "CODAUTO": "11",
+        "CPRO": "6",
+        "NOMBRE": "Badajoz",
+        "SLUG": "badajoz"
+    },
+    {
+        "CODAUTO": "11",
+        "CPRO": "10",
+        "NOMBRE": "Cáceres",
+        "SLUG": "caceres"
+    },
+    {
+        "CODAUTO": "12",
+        "CPRO": "15",
+        "NOMBRE": "Coruña, A",
+        "SLUG": "coruna--a"
+    },
+    {
+        "CODAUTO": "12",
+        "CPRO": "27",
+        "NOMBRE": "Lugo",
+        "SLUG": "lugo"
+    },
+    {
+        "CODAUTO": "12",
+        "CPRO": "32",
+        "NOMBRE": "Ourense",
+        "SLUG": "ourense"
+    },
+    {
+        "CODAUTO": "12",
+        "CPRO": "36",
+        "NOMBRE": "Pontevedra",
+        "SLUG": "pontevedra"
+    },
+    {
+        "CODAUTO": "13",
+        "CPRO": "28",
+        "NOMBRE": "Madrid",
+        "SLUG": "madrid"
+    },
+    {
+        "CODAUTO": "14",
+        "CPRO": "30",
+        "NOMBRE": "Murcia",
+        "SLUG": "murcia"
+    },
+    {
+        "CODAUTO": "15",
+        "CPRO": "31",
+        "NOMBRE": "Navarra",
+        "SLUG": "navarra"
+    },
+    {
+        "CODAUTO": "16",
+        "CPRO": "1",
+        "NOMBRE": "Araba/Álava",
+        "SLUG": "araba-alava"
+    },
+    {
+        "CODAUTO": "16",
+        "CPRO": "48",
+        "NOMBRE": "Bizkaia",
+        "SLUG": "bizkaia"
+    },
+    {
+        "CODAUTO": "16",
+        "CPRO": "20",
+        "NOMBRE": "Gipuzkoa",
+        "SLUG": "gipuzkoa"
+    },
+    {
+        "CODAUTO": "17",
+        "CPRO": "26",
+        "NOMBRE": "Rioja, La",
+        "SLUG": "rioja--la"
+    },
+    {
+        "CODAUTO": "18",
+        "CPRO": "51",
+        "NOMBRE": "Ceuta",
+        "SLUG": "ceuta"
+    },
+    {
+        "CODAUTO": "19",
+        "CPRO": "52",
+        "NOMBRE": "Melilla",
+        "SLUG": "melilla"
+    }
+]

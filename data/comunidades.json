@@ -1,1 +1,116 @@
-[{"CAPITAL":"41091","COD":"1","NOMBRE":"Andalucía"},{"CAPITAL":"50297","COD":"2","NOMBRE":"Aragón"},{"CAPITAL":"33044","COD":"3","NOMBRE":"Asturias, Principado de"},{"CAPITAL":"07040","COD":"4","NOMBRE":"Balears, Illes"},{"CAPITAL":"38038","COD":"5","NOMBRE":"Canarias"},{"CAPITAL":"39075","COD":"6","NOMBRE":"Cantabria"},{"CAPITAL":"47186","COD":"7","NOMBRE":"Castilla y León"},{"CAPITAL":"45168","COD":"8","NOMBRE":"Castilla - La Mancha"},{"CAPITAL":"08019","COD":"9","NOMBRE":"Cataluña"},{"CAPITAL":"46250","COD":"10","NOMBRE":"Comunitat Valenciana"},{"CAPITAL":"06083","COD":"11","NOMBRE":"Extremadura"},{"CAPITAL":"15078","COD":"12","NOMBRE":"Galicia"},{"CAPITAL":"28079","COD":"13","NOMBRE":"Madrid, Comunidad de"},{"CAPITAL":"30030","COD":"14","NOMBRE":"Murcia, Región de"},{"CAPITAL":"31201","COD":"15","NOMBRE":"Navarra, Comunidad Foral de"},{"CAPITAL":"01059","COD":"16","NOMBRE":"País Vasco"},{"CAPITAL":"26089","COD":"17","NOMBRE":"Rioja, La"},{"CAPITAL":"51001","COD":"18","NOMBRE":"Ceuta"},{"CAPITAL":"52001","COD":"19","NOMBRE":"Melilla"}]
+[
+    {
+        "CAPITAL": "41091",
+        "COD": "1",
+        "NOMBRE": "Andalucía",
+        "SLUG": "andalucia"
+    },
+    {
+        "CAPITAL": "50297",
+        "COD": "2",
+        "NOMBRE": "Aragón",
+        "SLUG": "aragon"
+    },
+    {
+        "CAPITAL": "33044",
+        "COD": "3",
+        "NOMBRE": "Asturias, Principado de",
+        "SLUG": "asturias--principado-de"
+    },
+    {
+        "CAPITAL": "07040",
+        "COD": "4",
+        "NOMBRE": "Balears, Illes",
+        "SLUG": "balears--illes"
+    },
+    {
+        "CAPITAL": "38038",
+        "COD": "5",
+        "NOMBRE": "Canarias",
+        "SLUG": "canarias"
+    },
+    {
+        "CAPITAL": "39075",
+        "COD": "6",
+        "NOMBRE": "Cantabria",
+        "SLUG": "cantabria"
+    },
+    {
+        "CAPITAL": "47186",
+        "COD": "7",
+        "NOMBRE": "Castilla y León",
+        "SLUG": "castilla-y-leon"
+    },
+    {
+        "CAPITAL": "45168",
+        "COD": "8",
+        "NOMBRE": "Castilla - La Mancha",
+        "SLUG": "castilla---la-mancha"
+    },
+    {
+        "CAPITAL": "08019",
+        "COD": "9",
+        "NOMBRE": "Cataluña",
+        "SLUG": "cataluna"
+    },
+    {
+        "CAPITAL": "46250",
+        "COD": "10",
+        "NOMBRE": "Comunitat Valenciana",
+        "SLUG": "comunitat-valenciana"
+    },
+    {
+        "CAPITAL": "06083",
+        "COD": "11",
+        "NOMBRE": "Extremadura",
+        "SLUG": "extremadura"
+    },
+    {
+        "CAPITAL": "15078",
+        "COD": "12",
+        "NOMBRE": "Galicia",
+        "SLUG": "galicia"
+    },
+    {
+        "CAPITAL": "28079",
+        "COD": "13",
+        "NOMBRE": "Madrid, Comunidad de",
+        "SLUG": "madrid--comunidad-de"
+    },
+    {
+        "CAPITAL": "30030",
+        "COD": "14",
+        "NOMBRE": "Murcia, Región de",
+        "SLUG": "murcia--region-de"
+    },
+    {
+        "CAPITAL": "31201",
+        "COD": "15",
+        "NOMBRE": "Navarra, Comunidad Foral de",
+        "SLUG": "navarra--comunidad-foral-de"
+    },
+    {
+        "CAPITAL": "01059",
+        "COD": "16",
+        "NOMBRE": "País Vasco",
+        "SLUG": "pais-vasco"
+    },
+    {
+        "CAPITAL": "26089",
+        "COD": "17",
+        "NOMBRE": "Rioja, La",
+        "SLUG": "rioja--la"
+    },
+    {
+        "CAPITAL": "51001",
+        "COD": "18",
+        "NOMBRE": "Ceuta",
+        "SLUG": "ceuta"
+    },
+    {
+        "CAPITAL": "52001",
+        "COD": "19",
+        "NOMBRE": "Melilla",
+        "SLUG": "melilla"
+    }
+]
